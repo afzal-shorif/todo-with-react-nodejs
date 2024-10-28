@@ -1,0 +1,22 @@
+.signup-login-wrapper {
+	width: 600px;
+	padding: 10px;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translatex(-50%);
+}
+
+.signup-login-from-container {
+	border-radius: 8px;
+	padding: 25px;
+	box-shadow: 5px 5px 20px #ddd;
+	overflow: hidden;
+}
+
+.btn-signup {
+	color: #FFF;
+	background: #2576f4;
+	float: right;
+	font-weight: bold;
+}
